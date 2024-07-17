@@ -1,2 +1,2 @@
-# Umai_Portfolio_Website
-Umai_Portfolio_Website
+# personal-portfolio-website
+personal portfolio website
